@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Essential.iml" filepath="$PROJECT_DIR$/.idea/Java_Essential.iml" />
-      <module fileurl="file://$PROJECT_DIR$/functions-module/functions-module.iml" filepath="$PROJECT_DIR$/functions-module/functions-module.iml" />
     </modules>
   </component>
 </project>
